@@ -28,7 +28,6 @@ fn create_playlist(playlist_name: String, playlist_id: i32) -> Playlist {
             id: playlist_id
         }
     };
-
     playlist
 }
 
